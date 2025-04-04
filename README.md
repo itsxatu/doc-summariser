@@ -85,5 +85,9 @@ Built with ❤️ using:
 - [PyPDF2](https://pypi.org/project/PyPDF2/)
 - [TQDM](https://tqdm.github.io/)
 
+---
 
+## 📃 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
