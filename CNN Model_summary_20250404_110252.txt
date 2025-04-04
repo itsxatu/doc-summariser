@@ -1,0 +1,53 @@
+Sure, here is a summary of the text you provided:
+
+**Department of Computer Science and Engineering (Artificial Intelligence & Machine Learning)**
+
+**Jain Global Campus, Kanakapura**
+
+**Project Title:** CIFAR-100 CNN Model
+
+**Objective:**
+
+* Develop a deep learning model for image classification using the CIFAR-100 dataset.
+
+**Dataset Description:**
+
+* Contains 60,000 images with 32x32 pixel resolution and 3 color channels (RGB).
+* Divided into training (50,000 images) and testing (10,000 images) subsets.
+* Diverse dataset with wide variety of categories, including animals, vehicles, household objects, and plants.
+
+**Data Preprocessing:**
+
+* Normalization to scale pixel values between 0 and 1.
+* One-Hot Encoding to convert categorical labels into one-hot vectors.
+* Data splitting for training and validation sets.
+
+**Model Architecture:**
+
+* Convolutional Neural Network (CNN) architecture is implemented.
+
+**Key Points:**
+
+* CIFAR-100 is a challenging classification problem due to its complexity.
+* CNN is a popular neural network architecture for image classification.
+* Data preprocessing is crucial for model performance.
+* Model architecture includes multiple layers of convolutional and pooling operations.
+
+The text describes the architecture and training process of a CNN for image classification. 
+
+**Key points:**
+
+* CNNs are well-suited for image classification due to their ability to capture spatial hierarchies in images.
+* The model consists of multiple convolutional and max-pooling layers followed by a fully-connected layer with 64 neurons and ReLU activation.
+* The model is compiled using Adam optimizer with categorical cross-entropy loss function and accuracy as the evaluation metric.
+* The model is trained for 50 epochs with an initial learning rate.
+* The model's accuracy on the test dataset is reported as 90%.
+
+Sure, here's a summary of the text you provided:
+
+- An image from the test dataset was selected for prediction.
+- The model predicted the class using the max probability method.
+- The predicted label was then compared with the actual label.
+- The actual label was compared with the predicted label to evaluate the model's performance.
+- The CNN model achieved a reasonable level of accuracy on the CIFAR-100 dataset.
+- Improvements can be made to achieve higher accuracy and robustness.
